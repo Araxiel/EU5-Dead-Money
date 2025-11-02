@@ -16,9 +16,9 @@ body:
       label: Other Mods
       description: Is Dead Money the only mod?
       options:
-        - "Yes"
         - "No"
-      default: "Yes"
+        - "Yes"
+      default: 0
     validations:
       required: true
   - type: input
