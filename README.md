@@ -4,6 +4,8 @@
 This is the earliest version of a Fallout mod for Europa Universalis 5.<br>
 This mod is extremely work in progress, one might say merely the concepts of a mod.
 
+[![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/964DkVwAXD)
+
 ## How can I help?
 [![GitHub issues by-label](https://img.shields.io/github/issues-raw/araxiel/EU5-Dead-Money/help%20wanted)](https://github.com/Araxiel/EU5-Dead-Money/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub issues by-label](https://img.shields.io/github/issues-raw/araxiel/EU5-Dead-Money/help%20needed%20%E2%9D%97)](https://github.com/Araxiel/EU5-Dead-Money/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+needed+%E2%9D%97%22)
 
