@@ -16,15 +16,17 @@ body:
       label: Other Mods
       description: Is Dead Money the only mod?
       options:
-        - 'Yes'
-        - 'No'
-      default: 0
+        - "Yes"
+        - "No"
+      default: "Yes"
+    validations:
+      required: true
   - type: input
     id: eu5version
     attributes:
       label: Europa Universalis 5 Version
       description: What version of Europa Universalis 5 are you using?
-      placeholder: 1.0
+      placeholder: "1.0"
     validations:
       required: true
   - type: input
@@ -32,7 +34,7 @@ body:
     attributes:
       label: Dead Money Version
       description: What version of Dead Money are you using?
-      placeholder: 0.1.0
+      placeholder: "0.1.0"
     validations:
       required: false
   - type: textarea
@@ -64,7 +66,7 @@ body:
         1. Open all tabs
         2. Say Beetlejuice three times
         ...
-      render: bash
+      render: shell   # more broadly supported than bash
     validations:
       required: false
   - type: textarea
